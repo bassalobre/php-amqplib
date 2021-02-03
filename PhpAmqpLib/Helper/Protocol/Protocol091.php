@@ -20,7 +20,7 @@ class Protocol091
     public function connectionStart(
         $version_major = 0,
         $version_minor = 9,
-        $server_properties,
+        $server_properties = [],
         $mechanisms = 'PLAIN',
         $locales = 'en_US'
     ) {

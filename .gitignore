@@ -5,6 +5,7 @@ build/
 docs/
 tools/
 phpDocumentor.phar
+.idea/
 
 ###> squizlabs/php_codesniffer ###
 /.phpcs-cache
